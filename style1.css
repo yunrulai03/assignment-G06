@@ -140,7 +140,7 @@ header .navigation .navigation-items a:hover:before{
     justify-content:center;
     align-items:center;
     transform:translateY(80px);
-    margin-bottom: 12px;
+    margin-bottom: 50px;
 }
 
 .slider-navigation .nav-btn{
