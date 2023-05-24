@@ -2,6 +2,7 @@
     box-sizing: border-box;
     font-family: 'Calibri',fantasy;
     font-size: 20px;
+    text-align: center;
 }
 body {
     background-image: url(02.jpg);
