@@ -163,3 +163,9 @@ footer .navigation .navigation-items a:before{
 footer .navigation .navigation-items a:hover:before{
     width: 100%;
 }
+
+@media(max-width: 700px) {
+    .body {
+        flex-direction: column;
+    }
+}
