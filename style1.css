@@ -177,4 +177,8 @@ header .navigation .navigation-items a:hover:before{
     transition-property:clip-path;
 }
 
-
+@media (max-width :700px) {
+    .home .body {
+        font-size: 2em;
+    }
+}
